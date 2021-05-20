@@ -1,0 +1,15 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed Parser, JShell, Execution, Command classes
+	-Discussed and planned with teamates on how the Parser will work
+	with JShell and Execution.
+	-Discussed and planned with teamates on how the FileSystem will work
+	with JShell and provide access to commands to make requests.
+
+What do I plan to work in the next three days?
+	-Begin implementing ErrorHandler
+	-Brainstorm how to combine FileSystem with JShell  and Execution
+	-Start working on some commands
+
+Am I blocked on anything?  
+	-Need FileSystem to be integrated with JShell

@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Fully Completed Concatenation class with paths (abs and relative)
+	-Fuly Completed Echo command with paths (abs and relative)
+	-Added more extensive error checking
+	-Updated Parser
+	-Added javadocs to all the classes I completed	
+
+What do I plan to work in the next three days?
+	-Completed Assignment
+
+Am I blocked on anything?  
+	-No

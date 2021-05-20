@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Finished the missing cases for ChangeDirectory
+    - Tested that MakeDirectory is working properly
+
+What do I plan to work in the next three days?
+    - Update the FileSystem and FileSystemNode to accomodate the needs of Echo
+    - Update CRC to accomodate any extra needs for my assigned classes
+    - Assign proper error messages for ChangeDirectory, MakeDirectory, PrintWorkingDirectory, FileSystem and FileSystemNode	
+
+Am I blocked on anything?
+    - No

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Implemented Move
+    - Stated the implementation for Copy
+    - Updated the code of MakeDirectory to comply with new requirements
+    - Started to discuss how to implement test cases with group members
+
+What do I plan to work in the next three days?
+    - Finish the code for Copy
+    - Start and finish the test cases for my assigned tasks: Remove, Copy, Move, MakeDirectory, Tree, PrintWorkingDirectory, and ChangeDirectory.
+    - Update the crc cards of my assigned tasks
+
+Am I blocked on anything?
+    - No

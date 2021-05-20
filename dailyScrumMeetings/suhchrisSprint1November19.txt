@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Dicuss best coding practices and code structure with 
+	teamates
+	-Brainstorming ideas on how to save state of shell
+	-Thinking about how to rework Manual class for redirection of output
+
+What do I plan to work in the next three days?
+	-Start and try to finish method of saving state of shell
+	-Work on updating Manual to new specifications
+	-Meet with teamates to discuss plan going forward
+
+Am I blocked on anything?  
+	-No

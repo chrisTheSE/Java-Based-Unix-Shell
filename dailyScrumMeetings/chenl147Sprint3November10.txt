@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished the implementation of FileSystem and FileSystemNode
+    - Finished updating the CRC cards for the classes assigned to me in the sprint	
+    - Finished implementing error messages for my classes
+    - Finished the javadocs for my classes
+    - Improved the comments on methods
+    - Applied the singleton approach for FileSystem
+
+What do I plan to work in the next three days?
+    - Nothing
+
+Am I blocked on anything?
+    - No

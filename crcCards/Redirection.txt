@@ -1,0 +1,19 @@
+Class name: EchoToFile
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Appends the output of a Command to the File's content if File exists
+-Overrides the File to output of a Command if File exists
+-Creates a new File with output of a Command set as content
+-Returns an error if the path to File is invalid/inappropriate
+
+Collaborators:
+-File
+-FileSystem
+-FileSystemNode
+-JShell
+-ErrorHandler
+

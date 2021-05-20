@@ -1,0 +1,12 @@
+Class name: SaveJShell
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Saves the state the of FileSystem in my computer.
+
+Collaborators:
+-JShell
+-ErroHandler

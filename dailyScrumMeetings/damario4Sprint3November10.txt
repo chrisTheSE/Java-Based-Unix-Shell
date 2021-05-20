@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+    - improved, tested, implemented error handling, and completed ListContents, History, PopDirectory, PushDirectory, Cache, and Errorhandler
+    - updated CRC cards to reflect code
+    - added and edited JavaDocs in all the classes
+    - improved code implementation of multiple classes
+    - made style and spelling fixes
+    - bug fixes and improvements
+    
+What do I plan to work in the next three days?
+    - done
+
+Am I blocked on anything?  
+    - None

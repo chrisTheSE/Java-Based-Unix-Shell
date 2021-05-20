@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+    - brainstormed ways to work out redirecting StandardOutput to an outFile to make
+    - started attempting ways to implement StandardOutput to outFile
+    - added removeDirectory method to Cache to enable removing a no longer existing directory
+    
+What do I plan to work in the next three days?
+    - discuss and decide how to actually implement StandardOutput to outFile with team
+    - implement StandardOutput to outFile for all the relevant classes
+    - fix some of the repeated code in the classes for error checking and make it only be done in one place
+
+Am I blocked on anything?  
+    - discuss with team the change in the structure for the implementation of StandardOutput to outFile

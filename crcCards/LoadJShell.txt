@@ -1,0 +1,12 @@
+Class name: LoadJShell
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Load the state the of FileSystem in my computer.
+
+Collaborators:
+-ErrorHandler
+-JShell

@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed Concatenation class, except paths
+	-Completed one part of Echo command
+	-Added more extensive error checking
+	-Updated Parser to take an entire string as one parameter	
+
+What do I plan to work in the next three days?
+	-Finish implementing Echo
+	-Add relative paths Concatenate 
+	-Polish error testing 
+
+Am I blocked on anything?  
+	-No

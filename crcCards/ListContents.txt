@@ -1,0 +1,17 @@
+Class name: ListContents
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Prints the files and directories names line by line 
+	in the current directory or the one in the path provided.
+-Prints the files and directories names line by line recursively 
+	if the parameter -R is given
+
+Collaborators:
+-FileSystem
+-FileSystemNode
+-File
+-ErrorHandler

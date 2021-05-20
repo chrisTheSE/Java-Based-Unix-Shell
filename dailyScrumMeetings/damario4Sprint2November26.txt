@@ -1,0 +1,19 @@
+What did I work on in the last three days?
+    - Completed ListContents
+    - Completed Redirection with team mate
+    - Talked, worked out, and completed how to redesigned JShell and Command 
+      structure with team mate for a clean and dynamic design that is meaningful 
+      and conducive to testing 
+    - Debugged and revised the classes and error handling
+    - Implemented Search (minor bugs to tend to)
+    - Revised and cleaned code to minimize redundancy and inefficiency, and 
+      make the code clean and uniform
+
+What do I plan to work in the next three days?
+    - resolve minor bugs in Search and with . and  .. file paths with team
+    - Create and complete Unit Test for all classes with team
+    - Test for bugs and resolve them
+    - Polish code with team
+
+Am I blocked on anything?  
+    - None

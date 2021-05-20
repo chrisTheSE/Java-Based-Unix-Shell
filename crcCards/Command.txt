@@ -1,0 +1,15 @@
+Class name: Command
+
+Parent class: None
+
+Subclasses: Exit, MakeDirectory, ChangeDirectory, ListContents, PrintWorkingDirectory, 
+	Concatenate, Echo, EchoToFile, History, Manual, PopDirectory, PushDirectory, ClientUrl, 
+	Copy, LoadJShell, Move. Redirection, Remove, SaveJShell, Search, Tree
+
+Responsibilities:
+-Depending on command line, performs the desired task for the user
+
+Collaborators: 
+-FileSystemNode
+-JShell
+-ErrorHandler

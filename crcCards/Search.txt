@@ -1,0 +1,13 @@
+Class name: Search
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Search for a file or directory in the FileSystem
+
+Collaborators:
+-FileSystem
+-FileSystemNode
+-ErrorHandler

@@ -1,0 +1,16 @@
+Class name: ClientUrl
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Retrieves the File at given URL
+-Adds the retrieved File to the Directory
+-Returns an error if there is no such File or Directory
+
+Collaborators:
+-FileSystem
+-ErrorHandler
+-JShell
+-StandardOutput

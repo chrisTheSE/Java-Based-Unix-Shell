@@ -1,0 +1,12 @@
+Class name: File
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Contains content
+-Has a name/identifier
+
+Collaborators: 
+None

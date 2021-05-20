@@ -1,0 +1,19 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed loadJShell and saveJShell
+	-Brainstorming ideas on how to implement redirection with team
+	-Started reworking StandardOutput to work with redirection
+	-Reworked JShell with teammate in order to make it more simple, clean and
+	better designed.
+	-Revised run method from Command class and its sub classes
+
+What do I plan to work in the next three days?
+	-Finish redirection using '>' or '>>'
+	-Complete curl command
+	-Update Cat to work with redirection and new requirements
+	-Update Manual to work with redirection and new requirements
+	-Meet with teamates to try and centralize error handling and improve issues
+	from part A of A2
+
+Am I blocked on anything?  
+	-No

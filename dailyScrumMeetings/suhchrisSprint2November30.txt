@@ -1,0 +1,15 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed JUnit test classes for ClientUrl, 
+	 Concatenate, Echo, LoadJShell, Manual, Redirection,
+	 SaveJShell, Parser, ErrorHandler, Execution
+	-Completed Javadocs for class
+	-Completely bugs for redirection
+	-Created a generic commandInterface interface
+	-Fixed many bugs that were unearthed from the Junit tests
+
+What do I plan to work in the next three days?
+	-Completed project
+
+Am I blocked on anything?  
+	-No

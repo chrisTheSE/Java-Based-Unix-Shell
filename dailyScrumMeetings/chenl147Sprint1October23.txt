@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on JShell and FileOperation
+    - Brainstormed design ideas with team for echo and mkdir commands. 
+    - Formulating the structure of my code for File and FileSystem
+
+What do I plan to work in the next three days?
+    - Start and finish testing the basic code for File and FileSystem
+    - Start thinking about the structure of my code for Directory and MakeDirectory
+
+Am I blocked on anything?
+    - No

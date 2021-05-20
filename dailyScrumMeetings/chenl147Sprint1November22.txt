@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Started the test cases for Remove
+    - Prepared the set up for the test cases for Tree
+
+What do I plan to work in the next three days?
+    - Update the implementation of MakeDirectory to satisfy new requirements
+    - Start the code for Move and Copy 
+    - Finish the test cases for Remove and Tree
+    - Implement the test cases for ChangeDirectory, MakeDirectory, and PrintWorkingDirectory
+    - Update the crc cards of my assigned tasks
+
+Am I blocked on anything?
+    - I cannot fully complete my test cases of Remove and Tree without having the new implementation of MakeDirectory

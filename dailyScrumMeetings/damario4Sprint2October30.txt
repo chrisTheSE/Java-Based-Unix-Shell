@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+    - worked on base structure and functionality of terminal to enable proper development of commands
+    - created dynamic structure for Commands so that we can properly implement commands
+    - completed Exit and improved Execution and ErrorHandler to dynamically run commands and handle errors
+    - started implementing ListContents
+
+What do I plan to work in the next three days?
+    - complete ListContents
+    - start implementing History
+
+Am I blocked on anything?  
+    - None

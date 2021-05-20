@@ -1,0 +1,22 @@
+Class name: Move
+
+Parent class: Copy
+
+Subclasses: None
+
+Responsibilities:
+Responsibilities:
+-Move the object (FileSystemNode or File) the first parameter refers by path into the path given in the second parameter
+-Return an error when the first parameter refers to a FileSystemNode
+    	-if the first path doesn't exists
+    	-if the second path except the last entry doesnt exists 
+    	-if the second path exists but there is a File with the first path last entry
+	-if the second path except the last entry exists but there is a File with the first path last entry
+-Return an error when the first parameter refers to a File
+	-if the the first path doesn't exists
+        -if the second path except the last entry doesnt exists 
+
+Collaborators:
+-FileSystem
+-Remove
+-ErrorHandler

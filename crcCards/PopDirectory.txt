@@ -1,0 +1,14 @@
+Class name: PopDirectory
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Gets path from top of directory stack in Cache and changes Directory into it.
+-Returns error message if the DirectoryStack is empty.
+
+Collaborators:
+-FileSystemNode
+-Cache
+-ErrorHandler

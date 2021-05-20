@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Brainstorming how to structure the commandLineReader and InputReader
+	-Formulating plan for how the Parser will work
+
+What do I plan to work in the next three days?
+	-Begin implementing CommandLineReader and InputReader
+	-Begin brainstorming structure for Command class and its subsidary classes
+
+Am I blocked on anything?  
+	-No

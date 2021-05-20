@@ -1,0 +1,13 @@
+Class name: Parser
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Receives set of input lines from InputReader.
+-Parses each input line into tokens.
+-Ignores extra whitespace.
+
+Collaborators:
+-ErrorHandler

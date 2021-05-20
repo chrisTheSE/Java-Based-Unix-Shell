@@ -1,0 +1,12 @@
+Class name: FileSystemNode
+
+Parent classes: None
+
+Subclasses: None
+
+Responsibilities:
+-Data class of a node of a FileSystem
+  -It has a directory, subdirectories and a parent FileSystemNode
+
+Collaborators: 
+-Directory

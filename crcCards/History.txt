@@ -1,0 +1,15 @@
+Class name: History
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Records every user input (including bad input) in entered in the Shell and stores them in Cache.
+-Allows user to print out all inputs entered since the Shell was started.
+-Allows user to print out the n>=0 most recent entered inputs.
+
+Collaborators:
+-JShell
+-Cache
+-ErrorHandler

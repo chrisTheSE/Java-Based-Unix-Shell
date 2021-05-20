@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished the code for Copy
+    - Updated the crc cards of my assigned tasks
+    - Finished the test cases for my assigned commands: Remove, Copy, Move, MakeDirectory, Tree, PrintWorkingDirectory, and ChangeDirectory.
+    - Finished the test cases for FileSystemNode, FileSystem, File, Directory
+
+What do I plan to work in the next three days?
+    - On the peer evaluation
+
+Am I blocked on anything?

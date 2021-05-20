@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+    - implemented the majority of ListContents
+    - implemented the majority of History
+    - discussed shell and command structure, processing, and implementation with team
+    
+What do I plan to work in the next three days?
+    - complete and test ListContents
+    - complete and test History
+
+Am I blocked on anything?  
+    - None

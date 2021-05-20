@@ -1,0 +1,31 @@
+Class name: Manual
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Prints out the documentation for the given command.
+
+Collaborators:
+-Exit
+-MakeDirectory
+-ChangeDirectory
+-ListContents
+-PrintWorkingDirectory
+-Concatenate
+-Echo
+-EchoToFile
+-History
+-PopDirectory
+-PushDirectory
+-Search
+-LoadJShell
+-SaveJShell
+-Tree
+-Move
+-Copy
+-ClientUrl
+-Remove
+-ErrorHandler
+-JShell

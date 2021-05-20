@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+    - completed ListContents and error handling for it, except for printing the name of a given file
+    - completed History and error handling for it
+    - implemented Cache and added it to the Command run method for all the commands
+    - bug fixes and improvements
+    
+What do I plan to work in the next three days?
+    - complete the last part of ListContents
+    - implement push and pop directory (as one class)
+    - improve all error handling and test for bugs
+
+Am I blocked on anything?  
+    - None

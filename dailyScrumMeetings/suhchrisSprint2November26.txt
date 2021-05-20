@@ -1,0 +1,19 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed Manual
+	-Completed Redirection
+	-Completely fixed StandardOutput
+	-Completely reworked JShell with teammate in order to make it more simple, clean and
+	better designed.
+	-Completely revised run method from Command class and its sub classes to send all
+	output to the JShell to be printed there
+
+What do I plan to work in the next three days?
+	-Finish JUnit testing
+	-Complete javadocs
+	-Check for bugs
+	-Meet with team to discuss finishing touches
+	-Make sure loadJShell only works if no commands entered
+
+Am I blocked on anything?  
+	-No

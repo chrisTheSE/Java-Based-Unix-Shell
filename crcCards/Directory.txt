@@ -1,0 +1,12 @@
+Class name: Directory
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Contains a list of files 
+-Has a name/indetifier
+
+Collaborators: 
+-File

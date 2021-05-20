@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed Manual class
+	-Discussed and planned with teamates on how the ErrorHandler will work
+	with the command classes and with Execution
+
+What do I plan to work in the next three days?
+	-Continue implementing ErrorHandler
+	-Continue implementing more commands
+
+Am I blocked on anything?  
+	-No

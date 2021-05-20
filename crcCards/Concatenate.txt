@@ -1,0 +1,16 @@
+Class name: Concatenate
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Displays the contents of the given Files concatenated with each other.
+-Returns an error when the File path is invalid/innapropriate
+
+Collaborators:
+-File
+-FileSystem
+-FileSystemNode
+-ErrorHandler
+-JShell

@@ -1,0 +1,17 @@
+Class name: Remove
+
+Parent class: FileSystem
+
+Subclasses: None
+
+Responsibilities:
+-Remove the File or Directory given in the parameter path 
+	-if its a Directory also remove paths in the Stack that depend on them
+-Return an error if there is no such FIle or Directory
+
+Collaborators:
+-FileSystem
+-Cache
+-FileSystemNode
+-JShell
+-ErrorHandler

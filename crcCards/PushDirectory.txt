@@ -1,0 +1,13 @@
+Class name: PushDirectory
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Sends current path to directory stack in Cache and changes Directory to the given parameter.
+
+Collaborators:
+-FileSystem
+-FileSystemNode
+-Cache

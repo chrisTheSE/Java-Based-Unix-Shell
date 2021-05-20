@@ -1,0 +1,14 @@
+Class name: Cache
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Stores History of terminal user input.
+-Stores stack of paths (directories).
+    -Pushes paths it receives to the top of a directory stack (LIFO).
+    -Pops the path at the top of stack when asked for it (returns null when the stack is empty).
+
+Collaborators:
+-None

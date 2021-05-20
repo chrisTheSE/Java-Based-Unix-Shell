@@ -1,0 +1,14 @@
+Class name: Echo
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Prints the given String
+-Return an error when the String is not surrounded by double quotation marks " 
+	or there are more than one Strings
+
+Collaborators:
+-FileSystem
+-ErrorHandler

@@ -1,0 +1,15 @@
+What did I work on in the last three days? 
+	-Review and discuss crc cards with teammates
+	-Completed Manual class and made it more modular by 
+	storing descriptions in each individual command class
+	-Improved Execution by using reflection (getting constructors at runtime)
+	-Fixed naming of methods in JShell that was not camelCase
+	-Discussed with teamates about what information Command class should hold	
+
+What do I plan to work in the next three days?
+	-Start implementing Echo
+	-Start implementing Concatenate
+	-Continue testing Manual class
+
+Am I blocked on anything?  
+	-No

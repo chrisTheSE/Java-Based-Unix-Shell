@@ -1,0 +1,21 @@
+Class name: JShell
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Start up when program is executed.
+-Shut down when exit is typed or x button is pressed.
+-Provide access for component parts for receiving input and executing commands.
+-Receives input from the command line.
+-Displays output from StandardOutput
+
+Collaborators:
+-Parser
+-ErrorHandler
+-StandardOutput
+-Command
+-Execution
+-FileSystem
+-Cache

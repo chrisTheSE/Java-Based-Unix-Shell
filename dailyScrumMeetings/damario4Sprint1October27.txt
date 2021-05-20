@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+    - revised CRC improved CRC cards with team
+    - revised and implemented main structure of packages and classes with team
+    - talked with team and worked on the functionality of the JShell and how it will run and exit
+    - implemented StandardInput and StandardOutput
+
+What do I plan to work in the next three days?
+    - complete Execution and JShell
+    - get a functional terminal that exits
+
+Am I blocked on anything?  
+    - need Execution class so that we can implement the commands 

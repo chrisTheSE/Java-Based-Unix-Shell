@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+    - revised JShell with team member so that we could save the shell and reload saved shell cleanly
+    - revised run method parameters of all Commands so as to improve the dynamic structure of the JShell
+    - reviewed CRC cards with team
+    - continued discussing with team how to work out redirecting StandardOutput
+
+What do I plan to work in the next three days?
+    - complete discussing and implement StandardOutput to outFile with team
+    - implement StandardOutput to outFile for all the relevant classes
+    - fix some of the repeated code in the classes for error checking and make it only be done in one place
+
+Am I blocked on anything?  
+    - discuss with team the change in the structure for the implementation of StandardOutput to outFile

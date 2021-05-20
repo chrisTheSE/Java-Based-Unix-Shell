@@ -1,0 +1,13 @@
+Class name: ErrorHandler
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Returns String containing the error message of any error in the program
+
+Collaborators: 
+-Command
+-Manual
+-FileSystemNode

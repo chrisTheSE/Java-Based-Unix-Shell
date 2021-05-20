@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Tested FileSystem was working properly
+    - Tested ChangeDirectory and PrintWorkingDirectory
+    - Polished the code for MakeDirectory
+
+What do I plan to work in the next three days?
+    - Continue updating the FileSystem and FileSystemNode to accomodate any needs for other classes 
+    - Finish implementing some corner cases of ChangeDirectory
+    - Throughly test the code of ChangeDirectory, MakeDirectory and PrintWorkingDirectory
+    - Update CRC to accomodate any extra needs for my assigned classes
+
+Am I blocked on anything?
+    - No

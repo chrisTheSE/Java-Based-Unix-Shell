@@ -1,0 +1,14 @@
+Class name: Tree
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+-Prints the whole FileSystem as a tree structure model.
+
+Collaborators:
+-FileSystem
+-FileSystemNode
+-File
+-JShell

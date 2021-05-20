@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - completed implementing, testing, and optimizing Search 
+    - redesigned redirection between JShell, Execution, and Command so that is 
+      it is handled in the background and does not affect the commands 
+      functionality
+    - implemented JUnit tests for Exit, Cache, History, Search, ListContents, 
+      PopDirectory, and PushDirectory, Command
+    - worked on testing JShell, StandardOutput, and StandardInput with team
+    - debugged, cleaned, and revised the classes and error handling
+      with team to make the code clean and uniform
+
+What do I plan to work in the next three days?
+    - done
+
+Am I blocked on anything?  
+    - none

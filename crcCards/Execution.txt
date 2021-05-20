@@ -1,0 +1,14 @@
+Class name: Execution
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Receives string of tokens from Parser.
+-Executes commands or display error message if the command is nonexistent, or there is an
+	erroneous amount of tokens for a command
+
+Collaborators:
+-JShell
+-All the commands except for CommandInterface

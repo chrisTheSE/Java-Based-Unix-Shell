@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Started and finished the basic code for File, FileSystem, and Directory
+    - Updated the crc cards to match the progress of my work
+
+
+What do I plan to work in the next three days?
+    - Update the FileSystem to accomodate any needs for other classes yet to be implemented
+    - Test the basic code for File, FileSystem and Directory
+    - Modify the crc cards as I see fit to the classes built
+    - Implement ChangeDirectory if possible
+    - Come up with a solution for the issue regarding tracking the current directory
+
+Am I blocked on anything?
+    - Couldn't implement ChangeDirectory yet because we have yet to build a tracker of the current directory

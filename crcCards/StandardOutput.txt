@@ -1,0 +1,13 @@
+Class name: StandardOutput
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+-Receives output to be printed from commands and prints it in the Shell. 
+
+Collaborators:
+-JShell
+-Redirection
+-Command

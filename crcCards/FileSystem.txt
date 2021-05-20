@@ -1,0 +1,14 @@
+Class name: FileSystem
+
+Parent classes: None
+
+Subclasses: None
+
+Responsibilities:
+-Tree structure of FileSystemNodes
+  -Keeps the root of the tree
+-Keeps track of the current directory
+
+
+Collaborators: 
+-FileSystemNode

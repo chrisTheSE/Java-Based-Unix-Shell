@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished the code for Remove
+    - Finished implementing the Tree command
+    - Added the necessary methods and error messages for Remove and Tree
+
+What do I plan to work in the next three days?
+    - Throughly test the implementation of Remove and Tree
+    - Discuss with team members on how to implement redirection
+    - Update the crc cards of my assigned tasks
+
+Am I blocked on anything?
+    - No
