@@ -1,0 +1,92 @@
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As an user, I want to see error messages when there is an error or I put in bad input.                ~  5 hr
+b) As an user, I want to create directories.                                                             ~  5 hr
+c) As an user, I want to change directories.                                                             ~  3 hr
+d) As an user, I want to see the contents of a directory.                                                ~  2 hr
+e) As an user, I want to see the contents of a file or document.                                         ~  2 hr
+f) As an user, I want to know the full path of my current directory.                                     ~  2 hr
+g) As an user, I want to save the path to the current directory in a stack.                              ~  1.5 hr
+h) As an user, I want to take a path from the stack of directories.                                      ~  1.5 hr
+i) As an user, I want to know which commands I have used so far.                                         ~  2 hr
+j) As an user, I want to write to a file, document, or print to the shell.                               ~  2.5 hr
+k) As an user, I want to see documentation for an available command.                                     ~  1.5 hr
+l) As an user, I want to redirect into a file the output of a command.                                   ~  3 hr
+m) As an user, I want to remove a directory.                                                             ~  4 hr
+n) As an user, I want to see all the subdirectories, and their content, of a directory.                  ~  3 hr
+o) As an user, I want to move a directory or file to another directory.                                  ~  2 hr
+p) As an user, I want to copy a directory.                                                               ~  3.5 hr
+q) As an user, I want to retrieve a file from the internet.                                              ~  2 hr
+r) As an user, I want to save the state of the JShell on my computer.                                    ~  5 hr
+s) As an user, I want to load the state of a JShell on my computer.                                      ~  4 hr
+t) As an user, I want to be able to search for directories or files.                                     ~  5 hr
+u) As an user, I want to see the whole FileSystem as a tree.                                             ~  5 hr
+
+Specific tasks to be accomplished:
+
+a-1. (ErrorHandler) Update the ErrorHandler so that it works correctly with redirection.
+a-2. (ErrorHandler) Implement any missing error cases for the commands.
+a-3. (test) Test the ErrorHandler is behaving as expected by creating test cases for it.
+b-1. (MakeDirectory) Update MakeDirectory to handle the a list of directories with arbitrary size rather than only two
+b-2. (MakeDirectory) Ensure MakeDirectory is stopping at the right occasion and displaying a proper error message.
+b-3. (test) Create sufficient test cases for MakeDirectory to guarantee it is behaving as expected.
+c-1. (ChangeDirectory and FileSystem) Update the FileSystem path traversal so that ChangeDirectory behaves as wanted
+c-2. (ChangeDirectory) Ensure ChangeDirectory is displaying the right error message.
+c-3. (test) Check ChangeDirectory is working properly by making test cases 
+d-1. (ListContents and ErrorHandler) Ensure ListContents is properly displaying its error messages.
+d-2. (ListContents) Ensure ListContents works with redirection.
+d-3. (test) Test the ListContents is behaving as expected by creating test cases for it.
+e-1. (Concatenate) Update the Concatenate so that it works as expected with a list of files
+e-2. (Concatenate) Guarantee Concatenate displays the proper error message when encountering an error.
+e-3. (Concatenate and StandardOutput) Make sure that Concatenate works with redirection and StandardOutput.
+e-4. (test) Check Concatenate is working properly by creating test cases.
+f-1. (PrintWorkingDirectory) Ensure PrintWorkingDirectory works correctly with redirection.
+f-2. (test) Test PrintWorkingDirectory is behaving as expected by creating test cases for it.
+g-1. (test) Check PushDirectory is working correctly by creating test cases.
+h-1. (test) Check PopDirectory is working as expected by making test cases.
+i-1. (History and StandardOutput) Verify History cooperates correctly with redirection and StandardOutput.
+i-2. (test) Ensure History is working as wanted by the creating of test cases.
+j-1. (Echo) Update the implementation of Echo so that it satisfies the new requirements.
+j-2. (Echo and StandardOutput) Confirm Echo works with redirection and StandardOutput correctly.
+j-3. (test) Confirm Echo works as expected by making test cases.
+k-1. (Manual) Update the implementation of Manual to satisfy the new given requirements.
+k-2. (Manual and StandardOutput) Ensure Manual makes correct use of redirection and StandardOutput.
+k-3. (test) Check Manual works as expected by the creation of test cases.
+l-1. (StandardOutput) Implement redirection for any command that gives an output.
+l-2. (test) Ensure Redirection is working correctly on any command that has an output.
+m-1. (test) Test Remove by creating test cases so that it behaves as wanted.
+n-1. (ListContents) Update the implementation of ListContents so that it works as required when having the parameter -R
+n-2. (ListContents and Redirection) Ensure ListContents works correctly with redirection and StandardOutput.
+n-3. (test) Verify that ListContents with -R is displaying all the subdirectories and their content correctly by the creation of test cases.
+o-1. (Move) Implement Move so that a directory or file is transferred into another directory.
+o-2. (Move and ErrorHandler) Check that Move displays an error message when appropriate.
+o-3. (test) Ensure Move is working as expected by creating test cases.
+p-1. (Copy) Implement the code for Copy so that a copy of a directory or file is made on the desired directory.
+p-2. (Copy and ErrorHandler) Confirm Copy displays an appropriate error message when encountering an error.
+p-3. (test) Ensure Copy is behaving as expected by making test cases.
+q-1. (Curl) Implement Curl so that it retrieves a file from the internet and adds it to the current directory.
+q-2. (Curl and ErrorHandler) Make sure Curl outputs a correct error message when running into an error.
+q-3. (test) Test Curl behaves as wanted as per the requirements by the creating of test cases.
+r-1. (SaveJShell) Implement the code of SaveJShell so that it saves the current state of the JShell into a document inside the current computer.
+r-2. (test) Ensure SaveJShell is behaving as expected by creating test cases.
+s-1. (LoadJShell) Implement LoadJShell so that it loads the information from a document made by SaveJShell.
+s-2. (LoadJShell and ErrorHandler) Check that LoadJShell outputs a valid error message when encountering an issue.
+s-3. (test) Ensure LoadJShell works as wanted by the creation of test cases.
+t-1. (Search) Implement the code for Search so that it is able to search for any document as per required by the instruction.
+t-2. (Search and ErrorHandler) Verify that Search displays an appropriate error message when running into trouble.
+t-3. (test) Ensure Search is behaving as expected by the creation of test cases.
+u-1. (test) Test Tree is correctly displaying the FileSystem as a tree structure by creating test cases.
+v-1. Update & Review CRC cards related to tasks and make sure Classes have the appropriate Collaborators b) c) f) m) o) p) u)
+v-2. Update & Review CRC cards related to tasks and make sure Classes have the appropriate Collaborators a) d) g) h) i) l) n) t) 
+v-3. Update & Review CRC cards related to tasks and make sure Classes have the appropriate Collaborators e) j) k) l) q) r) s) 
+
+These tasks are assigned as follows:
+
+User: Christian Chen Liu
+Tasks: b-1, b-2, b-3, c-1, c-2, c-3, f-1, f-2, m-1, o-1, o-2, o-3, p-1, p-2, p-3, u-1, v-1
+
+User: Andrew D'Amario
+Tasks: a-1, a-2, a-3, d-1, d-2, d-3, g-1, h-1, i-1, i-2, l-2, n-1, n-2, n-3, t-1, t-2, t-3, v-2
+
+User: Christopher Suh
+Tasks: e-1, e-2, e-3, e-4, j-1, j-2, j-3, k-1, k-2, k-3, l-1, q-1, q-2, q-3, r-1, r-2, s-1, s-2, s-3, v-3

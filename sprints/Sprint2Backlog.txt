@@ -1,0 +1,46 @@
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As an user, I want to continuously be able to input commands. 
+b) As an user, I want to create directories.
+c) As an user, I want to change directories.
+d) As an user, I want to see the contents of a directory.
+e) As an user, I want to see error messages when there is an error or I put in bad input.
+f) As an user, I want to know which commands I have used so far.
+g) As an user, I want to know the full path of my current directory.
+h) As an user, I want to see documentation for available commands.
+
+Specific tasks to be accomplished:
+
+a-1. (Command subclasses) Complete all the command subclasses
+a-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+b-1. (FileSystem) Complete code for FileSystem
+b-2. (MakeDirectory) Write code for MakeDirectory
+b-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+c-1. (ChangeDirectory) Write code for ChangeDirectory
+c-2. (FileSystem) Ensure ChangeDirectory cooperates correctly with FileSystem
+c-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+d-1. (List) Write code for List
+d-2. (FileSystem) Ensure List cooperates correctly with FileSystem
+d-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+e-1. (ErrorHandler) Complete error handler class  
+e-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code  
+f-1. (History) Create and complete history command
+f-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+g-1. (PrintWorkingDirectory) Complete PrintWorkingDirectory command class
+g-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+h-1. (Manual) Complete Manual class
+h-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+i-1. Update & Review CRC cards related to tasks b), c), g)
+i-2. Update & Review CRC cards related to tasks d), f)
+i-3. Update & Review CRC cards related to tasks a), e), h)
+
+These tasks are assigned as follows:
+
+User: Christian Chen Liu
+Tasks: b-1, b-2, b-3, c-1, c-2, c-3, g-1, g-2, i-1
+
+User: Andrew D'Amario
+Tasks: d-1, d-2, d-3, f-1, f-2, i-2
+
+User: Christopher Suh
+Tasks: a-1, a-2, e-1, e-2, h-1, h-2, i-3

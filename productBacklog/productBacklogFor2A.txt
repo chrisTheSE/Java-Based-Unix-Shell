@@ -1,0 +1,14 @@
+As an user, I want to continuously be able to input commands.                                         ~  4 hr
+As an user, I want to start the shell.                                                                ~  1 hr
+As an user, I want to quit the shell.                                                                 ~  1 hr
+As an user, I want to see error messages when there is an error or I put in bad input.                ~  5 hr
+As an user, I want to create directories.                                                             ~  5 hr
+As an user, I want to change directories.                                                             ~  3 hr
+As an user, I want to see the contents of a directory.                                                ~  2 hr
+As an user, I want to see the contents of a file or document.                                         ~  2 hr
+As an user, I want to know the full path of my current directory.                                     ~  2 hr
+As an user, I want to save the path to the current directory in a stack.                              ~  1.5 hr
+As an user, I want to take a path from the stack of directories.                                      ~  1.5 hr
+As an user, I want to know which commands I have used so far.                                         ~  2 hr
+As an user, I want to write to a file, document, or print to the shell.                               ~  2.5 hr
+As an user, I want to see documentation for available commands.                                       ~  1.5 hr

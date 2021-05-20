@@ -1,0 +1,45 @@
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As an user, I want to continuously be able to input commands. 
+b) As an user, I want to start the shell.
+c) As an user, I want to quit the shell.
+d) As an user, I want to create directories.
+e) As an user, I want to change directories.
+f) As an user, I want to see the contents of a directory.
+
+Specific tasks to be accomplished:
+
+a-1. (CommandLineReader) Begin coding the structure of the command line interpreter
+a-2. (InputReader) Write basic code for InputReader class
+a-3. (JShell and InputReader) Have the shell continually prompt the user for input
+a-4. (Parser) Parse the user input for proper keywords
+a-5. (Command) Create command class and start adding all the requested commands as sub-classes
+a-6. (Command subclasses) Create all the command subclasses (done like this so they are modular)
+a-7. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+b-1. (Exit) Write the basic code for exit class
+b-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+c-1. (JShell) Write basic code for JShell
+c-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+d-1. (File) Write basic code for File
+d-2. (FileSystem) Write basic code for FileSystem
+d-3. (Directory) Write basic code for directory
+d-4. (MakeDirectory) Write code for MakeDirectory
+d-5. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+e-1. (ChangeDirectory) Write code for ChangeDirectory
+e-2. (FileSystem) Ensure ChangeDirectory cooperates correctly with FileSystem
+e-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+f-1. (List) Write code for List
+f-2. (FileSystem) Ensure List cooperates correctly with FileSystem
+f-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+g.   Review and update crc cards
+
+These tasks are assigned as follows:
+
+User: Christian Chen Liu
+Tasks: d-1, d-2, d-3, d-4, d-5, e-1, e-2, e-3, g
+
+User: Andrew D'Amario
+Tasks: b-1, b-2, c-1, c-2, f-1, f-2, f-3, g
+
+User: Christopher Suh
+Tasks: a-1, a-2, a-3, a-4, a-5, a-6, a-7, g

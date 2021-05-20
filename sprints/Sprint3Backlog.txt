@@ -1,0 +1,57 @@
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As an user, I want to write to a file, document, or print to the shell.  
+b) As an user, I want to create directories.
+c) As an user, I want to change directories.
+d) As an user, I want to see the contents of a directory.
+e) As an user, I want to see error messages when there is an error or I put in bad input.
+f) As an user, I want to know which commands I have used so far.
+g) As an user, I want to know the full path of my current directory.
+h) As an user, I want to see documentation for available commands.
+i) As an user, I want to see the contents of a file or document.                                                                            
+j) As an user, I want to save the path to the current directory in a stack.                              
+k) As an user, I want to take a path from the stack of directories.                                                                               
+                           
+
+Specific tasks to be accomplished:
+
+a-1. (Echo) Complete basic structure the Echo command class
+a-2  (Echo) Complete on print contents of file
+a-3  (Echo) Complete on append of file
+a-4. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+b-1. (FileSystem) Continue working on code for FileSystem
+b-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+c-1. (ChangeDirectory) Finish code for ChangeDirectory
+c-2. (FileSystem) Ensure ChangeDirectory cooperates correctly with FileSystem
+c-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+d-1. (ListContents) Continue working on code for ListContents
+d-2. (FileSystem) Ensure ListContents cooperates correctly with FileSystem
+d-3. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+e-1. (ErrorHandler) Continue working on error handler class  
+e-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code  
+f-1. (History) Continue working on history command
+f-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+g-1. (PrintWorkingDirectory) Continue working on PrintWorkingDirectory command class
+g-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+h-1. (Manual) Continue working on Manual
+h-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+i-1. (Concatenation) Complete Concatenation class
+i-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+j-1. (PushDirectory) Complete PushDirectory class
+j-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+k-1. (PopDirectory)  Complete PopDirectory class
+k-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+l-1. Update & Review CRC cards related to tasks b), c), g)
+l-2. Update & Review CRC cards related to tasks d), f), e), j), k)
+l-3. Update & Review CRC cards related to tasks a), h), i)
+
+These tasks are assigned as follows:
+
+User: Christian Chen Liu
+Tasks: b-1, b-2, b-3, c-1, c-2, c-3, g-1, g-2, l-1
+
+User: Andrew D'Amario
+Tasks: e-1, e-2, d-1, d-2, d-3, f-1, f-2, j-1, j-2, k-1, k-2, l-2
+
+User: Christopher Suh
+Tasks: a-1, a-2, a-3, a-4, h-1, h-2, i-1, i-2, l-3

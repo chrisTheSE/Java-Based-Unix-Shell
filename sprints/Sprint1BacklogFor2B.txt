@@ -1,0 +1,36 @@
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As an user, I want to redirect into a file the output of a command.                                   ~  3 hr
+b) As an user, I want to remove a directory.                                                             ~  4 hr
+c) As an user, I want to see all the subdirectories, and their content, of a directory.                  ~  3 hr
+d) As an user, I want to see the whole JShell as a tree.                                                 ~  5 hr
+e) As an user, I want to save the state of the JShell on my computer.                                    ~  5 hr
+
+Specific tasks to be accomplished:
+
+a-1. (StandardOutput) Modify StandardOutput to enable redirection of Standard Output to file.
+a-2. (Execution) Modify execution to enable redirection of Standard Output to file.
+a-3. (Manual) Modify Manual to enable redirection of Standard Output to file.
+a-4. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+b-1. (Remove) Implement Remove to enable removing if directories.
+b-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+c-1. (ListContents) Modify ListContents to print out the contents of subdirectories.
+c-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+d-1. (Tree) Printing the filesystem as a tree structure.
+d-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+e-1. (Save) Implement class to allow user to save the sate of the shell.
+e-2. (Debugging & Testing) Take some time to debug and test new code. Further test compatibility with existing code
+f-1. Update & Review CRC cards related to tasks a)
+f-2. Update & Review CRC cards related to tasks b) d)
+f-3. Update & Review CRC cards related to tasks c) d)
+
+These tasks are assigned as follows:
+
+User: Christian Chen Liu
+Tasks: d-1, d-2, b-1, b-2, f-2
+
+User: Andrew D'Amario
+Tasks: a-1, a-2, c-1, c-2, f-1
+
+User: Christopher Suh
+Tasks: a-3, a-4, e-1, e-2, f-3

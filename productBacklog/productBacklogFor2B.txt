@@ -1,0 +1,24 @@
+As an user, I want to continuously be able to input commands.                                         ~  4 hr
+As an user, I want to start the shell.                                                                ~  1 hr
+As an user, I want to quit the shell.                                                                 ~  1 hr
+As an user, I want to see error messages when there is an error or I put in bad input.                ~  5 hr
+As an user, I want to create directories.                                                             ~  5 hr
+As an user, I want to change directories.                                                             ~  3 hr
+As an user, I want to see the contents of a directory.                                                ~  2 hr
+As an user, I want to see the contents of a file or document.                                         ~  2 hr
+As an user, I want to know the full path of my current directory.                                     ~  2 hr
+As an user, I want to save the path to the current directory in a stack.                              ~  1.5 hr
+As an user, I want to take a path from the stack of directories.                                      ~  1.5 hr
+As an user, I want to know which commands I have used so far.                                         ~  2 hr
+As an user, I want to write to a file, document, or print to the shell.                               ~  2.5 hr
+As an user, I want to see documentation for an available command.                                     ~  1.5 hr
+As an user, I want to redirect into a file the output of a command.                                   ~  3 hr
+As an user, I want to remove a directory.                                                             ~  4 hr
+As an user, I want to see all the subdirectories, and their content, of a directory.                  ~  3 hr
+As an user, I want to move a directory or file to another directory.                                  ~  2 hr
+As an user, I want to copy a directory.                                                               ~  3.5 hr
+As an user, I want to retrieve a file from the internet.                                              ~  2 hr
+As an user, I want to save the state of the JShell on my computer.                                    ~  5 hr
+As an user, I want to load the state of a Jshell on my computer.                                      ~  4 hr
+As an user, I want to be able to search for directories or files.                                     ~  5 hr
+As an user, I want to see the whole FileSystem as a tree.                                             ~  5 hr
